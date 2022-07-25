@@ -25,6 +25,7 @@ p {
     border-radius: 10px;
     font-weight: bold;
     box-shadow: 2px 2px black;
+    color: black;
 }
 
 a:hover {
